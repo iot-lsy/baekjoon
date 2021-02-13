@@ -1,11 +1,11 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int i = 0;
 int num = 1;
 
 void Factorial();
 
-void main() {
+int main() {
 
 	
 	scanf("%d", &i);
@@ -14,6 +14,8 @@ void main() {
 
 	printf("%d", num);
 
+
+	return 0;
 }
 
 void Factorial() {
@@ -24,4 +26,4 @@ void Factorial() {
 		Factorial(i);
 	}
 
-}
+}*/
