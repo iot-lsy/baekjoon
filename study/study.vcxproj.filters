@@ -21,5 +21,20 @@
     <ClCompile Include="fibonacci.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="maxmin.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="num.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3052.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1546.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

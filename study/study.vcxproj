@@ -139,10 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1546.c" />
+    <ClCompile Include="3052.c" />
     <ClCompile Include="Factorial.c">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions);_CRT_SECURE_NO_WARNING;</PreprocessorDefinitions>
     </ClCompile>
     <ClCompile Include="fibonacci.c" />
+    <ClCompile Include="max.c" />
+    <ClCompile Include="maxmin.c" />
+    <ClCompile Include="num.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
