@@ -139,8 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="14681.c" />
     <ClCompile Include="1546.c" />
     <ClCompile Include="3052.c" />
+    <ClCompile Include="4344.c" />
+    <ClCompile Include="8958.c" />
     <ClCompile Include="Factorial.c">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions);_CRT_SECURE_NO_WARNING;</PreprocessorDefinitions>
     </ClCompile>
