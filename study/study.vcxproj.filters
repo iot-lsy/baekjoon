@@ -13,43 +13,37 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\1차원배열">
-      <UniqueIdentifier>{1eccd4da-39f7-43dd-ad5f-5311e8cc292d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\if문">
-      <UniqueIdentifier>{d41225a4-2092-48b0-97f2-e537314d0421}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1546.c">
-      <Filter>소스 파일\1차원배열</Filter>
-    </ClCompile>
-    <ClCompile Include="3052.c">
-      <Filter>소스 파일\1차원배열</Filter>
-    </ClCompile>
-    <ClCompile Include="4344.c">
-      <Filter>소스 파일\1차원배열</Filter>
-    </ClCompile>
-    <ClCompile Include="8958.c">
-      <Filter>소스 파일\1차원배열</Filter>
-    </ClCompile>
     <ClCompile Include="Factorial.c">
-      <Filter>소스 파일\1차원배열</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="fibonacci.c">
-      <Filter>소스 파일\1차원배열</Filter>
-    </ClCompile>
-    <ClCompile Include="max.c">
-      <Filter>소스 파일\1차원배열</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="maxmin.c">
-      <Filter>소스 파일\1차원배열</Filter>
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="max.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="num.c">
-      <Filter>소스 파일\1차원배열</Filter>
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3052.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1546.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8958.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4344.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="14681.c">
-      <Filter>소스 파일\if문</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
