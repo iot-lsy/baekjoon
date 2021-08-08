@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int i = 0;
 int num = 1;
@@ -26,4 +26,4 @@ void Factorial() {
 		Factorial(i);
 	}
 
-}*/
+}
