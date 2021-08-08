@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main() {
 
@@ -20,4 +20,4 @@ int main() {
 	printf("%d\n%d", max_value, max_index);
 
 	return 0;
-}*/
+}
