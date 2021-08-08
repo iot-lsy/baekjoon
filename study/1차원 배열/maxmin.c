@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 int check_MN(int*, int);
@@ -42,4 +42,3 @@ int check_MN(int* num, int len) {
 
 	return 0;
 }
-*/
